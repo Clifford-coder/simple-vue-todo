@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "Meeting Appointment",
+      "day": "June 1st Friday",
+      "reminder": false
+    },
+    {
+      "id": "43ccc21a-3f81-4d9b-b7b6-026466c98b84",
+      "text": "Black coast Meeting ",
+      "day": "March 10th 3: 00pm",
+      "reminder": false
+    },
+    {
+      "id": "3cc1ed2b-78b7-4540-b0b2-24fea945b494",
+      "text": "Lux City metting ",
+      "day": "Monday ",
+      "reminder": true
+    },
+    {
+      "id": "437fb7fc-0065-4004-8a4c-8880200329e9",
+      "text": "Black coast Hello Hi Strike is On",
+      "day": "March 10th 3: 00pm on Monday",
+      "reminder": false
+    }
+  ]
+}
